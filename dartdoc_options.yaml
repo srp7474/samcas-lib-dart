@@ -1,0 +1,5 @@
+# control documentation options
+dartdoc:
+  favicon: 'doc-samcas-lib.ico'
+
+# end of document

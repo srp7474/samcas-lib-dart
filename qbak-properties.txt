@@ -1,0 +1,9 @@
+# H:\flut\samcas
+zipid=DSAMCAS
+
+exclude   = @objects *.jar *.marks *.zip *.DILL
+exclude.1 = @eclipse
+exclude.2 = \build\*
+exclude.3 = *.so *.filecache *.bin *.stamp
+
+full      = \lib\*
