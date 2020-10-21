@@ -180,13 +180,17 @@ Released under the [The MIT License](https://opensource.org/licenses/MIT)
 
 * Sam Methodology [sam.js.org](https://sam.js.org/)
 
-* The [SAMCAS](/docs/samcas/api/index.html) library
+* The [SAMCAS](https://gael-home.appspot.com/docs/samcas/api/index.html) library
 
-* The [Rocket lib](/docs/rocket-lib/api/index.html) library
+* The [Rocket lib](https://gael-home.appspot.com/docs/rocket-lib/api/index.html) library
 
-* The [Rocket App](/docs/rocket/api/index.html) a simple SAMCAS example
+* The [Rocket App](https://gael-home.appspot.com/docs/rocket/api/index.html) a simple SAMCAS example
 
-* The [Missile App](/docs/missile/api/index.html) a more complex SAMCAS example
+* The [Missile App](https://gael-home.appspot.com/docs/missile/api/index.html) a more complex SAMCAS example
+
+* The [Rocket App Working Web Demonstration](https://gael-home.appspot.com/web/rocket/web/index.html)
+
+* The [Missile App Working Web Demonstration](https://gael-home.appspot.com/web/missile/web/index.html)
 
 ## Source repository at GitHub ##
 
